@@ -4,7 +4,7 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <limits.h>
-#include <../h/my_string.h>
+#include "../h/my_string.h"
 
 #define MAX_BUFFER_SIZE 256
 char *PWD = NULL;
